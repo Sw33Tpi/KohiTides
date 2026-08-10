@@ -1,0 +1,2401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kohimarama Swim Tides//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kohimarama High Tide Swim Windows
+X-WR-TIMEZONE:Pacific/Auckland
+BEGIN:VTIMEZONE
+TZID:Pacific/Auckland
+BEGIN:STANDARD
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+TZOFFSETFROM:+1300
+TZOFFSETTO:+1200
+TZNAME:NZST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700927T020000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU
+TZOFFSETFROM:+1200
+TZOFFSETTO:+1300
+TZNAME:NZDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8f304729-02bf-4f6d-a9a8-18b56f09794d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260105T080500
+DTEND;TZID=Pacific/Auckland:20260105T110500
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 09:35 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c7171c-ed66-46d2-89b7-84cca114ed14@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260106T085600
+DTEND;TZID=Pacific/Auckland:20260106T115600
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 10:26 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dea9754a-a213-42a4-9951-1706b2914f57@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260107T094500
+DTEND;TZID=Pacific/Auckland:20260107T124500
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 11:15 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f166f1-4c31-47c4-8a79-81d863e51f4e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260108T103300
+DTEND;TZID=Pacific/Auckland:20260108T133300
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 12:03 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f31cd296-52f6-49ea-8573-40239fa318b5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260109T112100
+DTEND;TZID=Pacific/Auckland:20260109T142100
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 12:51 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba37fb4-7b50-49e1-af70-b5962fdf44f1@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260110T120800
+DTEND;TZID=Pacific/Auckland:20260110T150800
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 13:38 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:54583346-30cb-4113-815a-0dbdd853854b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260111T125500
+DTEND;TZID=Pacific/Auckland:20260111T155500
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 14:25 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:6345e4e0-ab0f-4c22-a7e9-10d949486337@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260112T134300
+DTEND;TZID=Pacific/Auckland:20260112T164300
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 15:13 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca23765-f96d-4218-b9fc-2144cfc8b00c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260113T143300
+DTEND;TZID=Pacific/Auckland:20260113T173300
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 16:03 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:15687788-fea5-4b58-a4f5-7906dff193e3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260114T152600
+DTEND;TZID=Pacific/Auckland:20260114T182600
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 16:56 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd02428-7576-407a-9777-e7b960d8f2f3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260115T162100
+DTEND;TZID=Pacific/Auckland:20260115T192100
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 17:51 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:642c1432-b742-4518-a80f-492dfb2cef87@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260120T080300
+DTEND;TZID=Pacific/Auckland:20260120T110300
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 09:33 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a97f827c-7392-4601-ba03-e88e7eaf7b1a@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260121T084200
+DTEND;TZID=Pacific/Auckland:20260121T114200
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 10:12 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d20d33d7-e67c-4854-9e92-781d11666d6e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260122T092200
+DTEND;TZID=Pacific/Auckland:20260122T122200
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 10:52 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:e6dce72a-0b07-4490-8752-37a509e9aee2@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260123T100200
+DTEND;TZID=Pacific/Auckland:20260123T130200
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 11:32 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1bbbba63-70ca-4344-83c3-2f03047a2231@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260124T104500
+DTEND;TZID=Pacific/Auckland:20260124T134500
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 12:15 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b70fc5a1-c042-407a-a734-3015aab009d9@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260125T113000
+DTEND;TZID=Pacific/Auckland:20260125T143000
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 13:00 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:6039a584-b6c8-4ef8-8150-357730f8d915@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260126T121800
+DTEND;TZID=Pacific/Auckland:20260126T151800
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 13:48 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d4313fa4-0137-4ab1-a86d-002b2d7b6fef@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260127T131000
+DTEND;TZID=Pacific/Auckland:20260127T161000
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 14:40 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:ddec3df4-cc91-4870-8a3b-5678b1efa83e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260128T140800
+DTEND;TZID=Pacific/Auckland:20260128T170800
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 15:38 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:3784063d-6d71-479e-aa6d-e07a8fd9656f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260129T151200
+DTEND;TZID=Pacific/Auckland:20260129T181200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 16:42 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:28d30b4c-9dbb-448d-b29d-bf95250f37e8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260130T162000
+DTEND;TZID=Pacific/Auckland:20260130T192000
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:50 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c2a0ef-fa0b-451b-887f-2872e4c2d2d8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260203T074700
+DTEND;TZID=Pacific/Auckland:20260203T104700
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 09:17 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:65a244f5-0d92-4079-81e1-92b883007998@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260204T083500
+DTEND;TZID=Pacific/Auckland:20260204T113500
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 10:05 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:19504193-2703-4adc-b61c-989f45fc2c4b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260205T092100
+DTEND;TZID=Pacific/Auckland:20260205T122100
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 10:51 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a9d1355b-6c90-474c-9746-72e2aca3b1c3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260206T100500
+DTEND;TZID=Pacific/Auckland:20260206T130500
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 11:35 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:4c242cb3-8d90-48a9-a780-d60b16be8b9c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260207T104800
+DTEND;TZID=Pacific/Auckland:20260207T134800
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 12:18 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:0878c36c-9d50-4ad9-b224-6da903799d7c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260208T113000
+DTEND;TZID=Pacific/Auckland:20260208T143000
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 13:00 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:6e59080b-dade-4b65-b444-adc6f38bf43f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260209T121300
+DTEND;TZID=Pacific/Auckland:20260209T151300
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 13:43 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:19e119de-aa45-42fa-bc7a-2c5544d548e3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260210T125700
+DTEND;TZID=Pacific/Auckland:20260210T155700
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 14:27 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8e4dc726-e5ed-45b6-978b-a161e5fab782@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260211T134600
+DTEND;TZID=Pacific/Auckland:20260211T164600
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 15:16 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7adab4f3-e544-4231-b360-c67b648c3338@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260212T144000
+DTEND;TZID=Pacific/Auckland:20260212T174000
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 16:10 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a4008d7e-5fc6-42b4-9214-1ae95c4ee6bb@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260213T153800
+DTEND;TZID=Pacific/Auckland:20260213T183800
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 17:08 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a2d8b4fb-53b0-4bd5-8b95-15934ccc736f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260218T073300
+DTEND;TZID=Pacific/Auckland:20260218T103300
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 09:03 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:887ea1d3-fba9-471e-b2a0-866c6f52c084@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260219T081400
+DTEND;TZID=Pacific/Auckland:20260219T111400
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 09:44 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:777d8180-3eee-4714-ac1b-8882a6b62cec@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260220T085500
+DTEND;TZID=Pacific/Auckland:20260220T115500
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 10:25 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:bf851bc2-1b9b-4384-9514-0ff9cfc852b9@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260221T093800
+DTEND;TZID=Pacific/Auckland:20260221T123800
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 11:08 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d9f768da-4cfd-46ef-bf5b-ba2e04e3c76f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260222T102200
+DTEND;TZID=Pacific/Auckland:20260222T132200
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 11:52 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c152dfba-4eac-4c4e-a9cb-917eb525d981@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260223T110900
+DTEND;TZID=Pacific/Auckland:20260223T140900
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 12:39 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:e64c31de-1780-43f6-b384-7998785ee0d1@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260224T115900
+DTEND;TZID=Pacific/Auckland:20260224T145900
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 13:29 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:3a08c116-dccc-4bd1-8472-15830f443dc6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260225T125300
+DTEND;TZID=Pacific/Auckland:20260225T155300
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 14:23 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7512b845-81e9-4184-ba7b-741ba7d4bfe8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260226T135300
+DTEND;TZID=Pacific/Auckland:20260226T165300
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:23 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:4dce212f-6e79-434e-8acc-cd8c3159aa4e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260227T150000
+DTEND;TZID=Pacific/Auckland:20260227T180000
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 16:30 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5cc088c6-fb89-4541-9a10-d1f601a52c17@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260228T160800
+DTEND;TZID=Pacific/Auckland:20260228T190800
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:38 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2a299388-b9fa-4ec8-94c8-0bf2322feabc@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260305T081000
+DTEND;TZID=Pacific/Auckland:20260305T111000
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:40 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:811128c7-a33c-42bb-b032-1ce9d0aaaa73@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260306T085400
+DTEND;TZID=Pacific/Auckland:20260306T115400
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 10:24 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:3a0b7eca-5f0b-4ff8-bde5-41976157d06e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260307T093500
+DTEND;TZID=Pacific/Auckland:20260307T123500
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 11:05 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8c1f563a-a8df-462c-b523-21ba10037a39@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260308T101500
+DTEND;TZID=Pacific/Auckland:20260308T131500
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 11:45 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:996a0262-0e99-49ae-98d1-ea8b2e3f0cc6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260309T105400
+DTEND;TZID=Pacific/Auckland:20260309T135400
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 12:24 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:20dc3e46-f17e-42db-a3df-490230ab575b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260310T113400
+DTEND;TZID=Pacific/Auckland:20260310T143400
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 13:04 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:10c6d6f9-993d-476b-a185-d81f59687bcf@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260311T121700
+DTEND;TZID=Pacific/Auckland:20260311T151700
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 13:47 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1b0d5b73-1c7b-4405-a838-f98e3d363711@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260312T130400
+DTEND;TZID=Pacific/Auckland:20260312T160400
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 14:34 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:fea76def-a5ba-4e3c-b50e-1be6b390c16f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260313T135700
+DTEND;TZID=Pacific/Auckland:20260313T165700
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 15:27 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:ac191254-1374-47e1-abc5-b277978011a3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260314T145600
+DTEND;TZID=Pacific/Auckland:20260314T175600
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 16:26 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c1238904-cf69-4c88-a768-d59f32380f79@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260315T155800
+DTEND;TZID=Pacific/Auckland:20260315T185800
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 17:28 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac17899-db70-4dfb-ad8c-bba39c36ff25@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260320T074300
+DTEND;TZID=Pacific/Auckland:20260320T104300
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:13 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:97adf810-a7ad-4b35-af63-a4bec7c55661@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260321T082800
+DTEND;TZID=Pacific/Auckland:20260321T112800
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:58 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:85ae7641-3e72-4ac2-b79b-0de393284b20@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260322T091400
+DTEND;TZID=Pacific/Auckland:20260322T121400
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 10:44 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:df075709-9148-4535-9b0a-5a18fc4de32c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260323T100200
+DTEND;TZID=Pacific/Auckland:20260323T130200
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 11:32 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b353e98d-15f1-4628-8b5b-30802c5986d0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260324T105200
+DTEND;TZID=Pacific/Auckland:20260324T135200
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 12:22 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:20a7c7c8-b436-448e-bf79-089bcc493faa@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260325T114400
+DTEND;TZID=Pacific/Auckland:20260325T144400
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 13:14 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:fe96650f-c49d-45b9-98d8-cc55c25a31ed@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260326T124100
+DTEND;TZID=Pacific/Auckland:20260326T154100
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 14:11 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:665412ae-5346-4840-86c4-1f455989fcf1@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260327T134300
+DTEND;TZID=Pacific/Auckland:20260327T164300
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:13 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d7992a07-0677-4151-8e67-c4660f54af6a@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260328T144900
+DTEND;TZID=Pacific/Auckland:20260328T174900
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 16:19 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8b4a5a84-b311-4fd8-b9d7-8002c46294c9@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260329T155600
+DTEND;TZID=Pacific/Auckland:20260329T185600
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:26 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:ce8f760d-9cda-438a-aaca-1c9cbe61a4d6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260403T074200
+DTEND;TZID=Pacific/Auckland:20260403T104200
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 09:12 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:95403f6b-dc19-4d73-a587-0da8568fd332@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260404T082400
+DTEND;TZID=Pacific/Auckland:20260404T112400
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 09:54 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a6652eeb-95fb-4384-bc28-44dc8398d49d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260405T080300
+DTEND;TZID=Pacific/Auckland:20260405T110300
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 09:33 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5dd5e832-63da-43b6-a6a0-2ede36594ac2@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260406T084200
+DTEND;TZID=Pacific/Auckland:20260406T114200
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 10:12 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:aa3581af-ffd4-4fb8-abdc-44d8fef892c6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260407T092100
+DTEND;TZID=Pacific/Auckland:20260407T122100
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 10:51 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:202ee76b-4975-4ab1-b18a-a107072c6819@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260408T100100
+DTEND;TZID=Pacific/Auckland:20260408T130100
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 11:31 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:48623155-c20a-4484-958b-4b63b9a078a0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260409T104300
+DTEND;TZID=Pacific/Auckland:20260409T134300
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 12:13 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:56f63316-c9fd-44d4-8dcf-7fd7ad24a30f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260410T112900
+DTEND;TZID=Pacific/Auckland:20260410T142900
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 12:59 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b66c9206-dc32-4e28-86d2-9fdb2249f238@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260411T122000
+DTEND;TZID=Pacific/Auckland:20260411T152000
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 13:50 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:e7bb2705-0d63-48e0-8067-8b295149e9ca@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260412T131600
+DTEND;TZID=Pacific/Auckland:20260412T161600
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 14:46 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc97c8b-880d-4c75-868b-b023cebaa273@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260413T141700
+DTEND;TZID=Pacific/Auckland:20260413T171700
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 15:47 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:3fb863f8-0b98-4d42-939d-eec1c918ce9b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260414T151600
+DTEND;TZID=Pacific/Auckland:20260414T181600
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 16:46 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5a98d8f8-81f7-494a-893a-4e8bf28806c4@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260415T161200
+DTEND;TZID=Pacific/Auckland:20260415T191200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:42 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:66f2eba2-f5c4-43c5-9a3c-d7f945c6c4b1@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260420T075200
+DTEND;TZID=Pacific/Auckland:20260420T105200
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 09:22 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d16a979b-7789-48cd-8d87-0a90fff0a213@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260421T084400
+DTEND;TZID=Pacific/Auckland:20260421T114400
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 10:14 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5d54f347-c2c8-4930-b7ff-eab2acfc1a73@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260422T093700
+DTEND;TZID=Pacific/Auckland:20260422T123700
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 11:07 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:815f5b14-4857-4aa6-9960-2ddabbce5106@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260423T103200
+DTEND;TZID=Pacific/Auckland:20260423T133200
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 12:02 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b26439a3-22d4-4141-8014-84d2b6deffee@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260424T113000
+DTEND;TZID=Pacific/Auckland:20260424T143000
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 13:00 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d026d506-73e2-479e-99d2-d9efca5db8fd@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260425T123100
+DTEND;TZID=Pacific/Auckland:20260425T153100
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 14:01 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1d00268b-34b5-4cf2-b863-b715de619802@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260426T133500
+DTEND;TZID=Pacific/Auckland:20260426T163500
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:05 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:33ef377b-61ef-4251-b2b5-ce9c16443fdc@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260427T143800
+DTEND;TZID=Pacific/Auckland:20260427T173800
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 16:08 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:07d547f6-4c25-4424-861f-832bac9a7f6f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260428T153700
+DTEND;TZID=Pacific/Auckland:20260428T183700
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:07 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:738653ad-e3a4-47e4-acee-7b97a1edaad1@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260429T163000
+DTEND;TZID=Pacific/Auckland:20260429T193000
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 18:00 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c1fe4d95-5168-46bd-9a5d-1536deb2ebed@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260504T073400
+DTEND;TZID=Pacific/Auckland:20260504T103400
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 09:04 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:57f04823-0b25-4c68-a5b1-f4ee5a46818a@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260505T081300
+DTEND;TZID=Pacific/Auckland:20260505T111300
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 09:43 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:673bcafc-7591-4af0-b75e-2fae6870a8fc@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260506T085200
+DTEND;TZID=Pacific/Auckland:20260506T115200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 10:22 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:37322868-f96a-4d9e-98e1-f0c4b908ded5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260507T093300
+DTEND;TZID=Pacific/Auckland:20260507T123300
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 11:03 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:65152d6c-84fa-4ea6-8563-ff85c175f452@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260508T101400
+DTEND;TZID=Pacific/Auckland:20260508T131400
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 11:44 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:78802fc0-9764-4884-9098-f881c6e942e5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260509T105900
+DTEND;TZID=Pacific/Auckland:20260509T135900
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 12:29 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:efc62ff5-dfac-451b-9a5a-50232a241502@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260510T114700
+DTEND;TZID=Pacific/Auckland:20260510T144700
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 13:17 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:680cb8b8-7979-4132-83db-55e92033c42e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260511T124000
+DTEND;TZID=Pacific/Auckland:20260511T154000
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 14:10 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:20dd7636-21dc-477d-acf8-cf4d86deb04d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260512T133700
+DTEND;TZID=Pacific/Auckland:20260512T163700
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 15:07 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c38d984f-b92f-46de-b906-1ddc78d0fdd2@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260513T143700
+DTEND;TZID=Pacific/Auckland:20260513T173700
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 16:07 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:fae4d1bd-95c5-46b1-9bcd-e1ca5fd1f0e5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260514T153600
+DTEND;TZID=Pacific/Auckland:20260514T183600
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 17:06 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dac07035-8498-4c51-81bb-e23124eac97d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260519T073400
+DTEND;TZID=Pacific/Auckland:20260519T103400
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:04 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7af79d86-dd4a-4090-9b40-71f8be5d18b9@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260520T082800
+DTEND;TZID=Pacific/Auckland:20260520T112800
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:58 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:68e5ed86-d2aa-4599-af91-b00b6330273d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260521T092300
+DTEND;TZID=Pacific/Auckland:20260521T122300
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 10:53 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:06ca120d-65f0-416f-b5f7-4530b31f0d41@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260522T101900
+DTEND;TZID=Pacific/Auckland:20260522T131900
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 11:49 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d60ff6d0-8d33-4d7a-87f2-dbccd216e9ba@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260523T111500
+DTEND;TZID=Pacific/Auckland:20260523T141500
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 12:45 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:3244535f-e8a3-4d19-9d38-7b018aafc55b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260524T121300
+DTEND;TZID=Pacific/Auckland:20260524T151300
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 13:43 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1c5fde82-67e9-4212-b944-a719e89d85cc@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260525T131200
+DTEND;TZID=Pacific/Auckland:20260525T161200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 14:42 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:9f57ed14-e017-427e-9389-64807c93444c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260526T141200
+DTEND;TZID=Pacific/Auckland:20260526T171200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:42 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d99e7209-22e1-4824-b95c-3c238a3a45a8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260527T150900
+DTEND;TZID=Pacific/Auckland:20260527T180900
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 16:39 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c0bdc8ae-b3f6-4355-afd9-7d6bbd43772b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260528T160200
+DTEND;TZID=Pacific/Auckland:20260528T190200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:32 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:812f7d98-0d73-449a-ba0c-baf6495d9a25@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260603T074800
+DTEND;TZID=Pacific/Auckland:20260603T104800
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 09:18 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd3859e-f088-42a1-b7ac-92ef2bfb1884@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260604T082800
+DTEND;TZID=Pacific/Auckland:20260604T112800
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 09:58 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0dfb99-7787-405d-af56-e3249341a3b0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260605T090800
+DTEND;TZID=Pacific/Auckland:20260605T120800
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 10:38 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:27585566-cd65-498a-b6e9-7eebbe52dc03@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260606T094800
+DTEND;TZID=Pacific/Auckland:20260606T124800
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 11:18 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:cb1518ce-0476-4b71-9475-d93a13840f0b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260607T103100
+DTEND;TZID=Pacific/Auckland:20260607T133100
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 12:01 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:cf994ab2-ff47-4456-95af-74e15012f6ec@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260608T111600
+DTEND;TZID=Pacific/Auckland:20260608T141600
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 12:46 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2231e2ba-1eac-40de-b797-c26e0d6789f2@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260609T120600
+DTEND;TZID=Pacific/Auckland:20260609T150600
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 13:36 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:ee536a33-24ec-48a9-b017-a4fbecc16e59@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260610T130200
+DTEND;TZID=Pacific/Auckland:20260610T160200
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 14:32 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5426fea3-6223-4640-bd65-69e8ad7e5d95@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260611T140200
+DTEND;TZID=Pacific/Auckland:20260611T170200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:32 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b4f21f41-23f7-4efa-ac64-fcb68337a8c4@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260612T150500
+DTEND;TZID=Pacific/Auckland:20260612T180500
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 16:35 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:89b1b225-66ec-4965-a3d3-935098b34726@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260613T160500
+DTEND;TZID=Pacific/Auckland:20260613T190500
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 17:35 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:29af911f-9ba2-4c59-9552-ea5fe87e80f6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260618T081300
+DTEND;TZID=Pacific/Auckland:20260618T111300
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:43 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:0001b970-9157-4f41-840a-1c963a89ea19@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260619T090700
+DTEND;TZID=Pacific/Auckland:20260619T120700
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 10:37 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2a05cc61-87a4-46c5-bc2d-0d3b797ab3fa@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260620T100000
+DTEND;TZID=Pacific/Auckland:20260620T130000
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 11:30 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9c8799-b3bb-4e13-be50-0d7be99dbbbc@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260621T105300
+DTEND;TZID=Pacific/Auckland:20260621T135300
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 12:23 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:00c39e81-9444-40a2-9e40-23a856474073@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260622T114600
+DTEND;TZID=Pacific/Auckland:20260622T144600
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 13:16 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:762263cc-275a-400f-b64c-4b5d2bbdbaa5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260623T124200
+DTEND;TZID=Pacific/Auckland:20260623T154200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 14:12 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc895ef-fe2e-4552-9a7e-1d7882f6dfe6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260624T133900
+DTEND;TZID=Pacific/Auckland:20260624T163900
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 15:09 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b294d9f0-4599-4819-b9f0-90a53564d6aa@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260625T143600
+DTEND;TZID=Pacific/Auckland:20260625T173600
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 16:06 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8a51efea-88a4-4da1-814c-4cd971dab997@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260626T153000
+DTEND;TZID=Pacific/Auckland:20260626T183000
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 17:00 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:16547170-d473-4fc8-928b-e734e2f06e00@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260627T162100
+DTEND;TZID=Pacific/Auckland:20260627T192100
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:51 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dce07346-e584-42c7-b012-514951dfb4c3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260703T080400
+DTEND;TZID=Pacific/Auckland:20260703T110400
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 09:34 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1e82a4ae-db61-4634-92a2-bcaa85181fe0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260704T084300
+DTEND;TZID=Pacific/Auckland:20260704T114300
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 10:13 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b511243b-e75c-42ec-9778-35682584b256@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260705T092300
+DTEND;TZID=Pacific/Auckland:20260705T122300
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 10:53 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:6c05c3bb-423c-4a14-b2f4-f1f688b99d19@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260706T100400
+DTEND;TZID=Pacific/Auckland:20260706T130400
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 11:34 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:6b5e1dfc-1507-4042-aab0-236d5d8e47ca@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260707T104800
+DTEND;TZID=Pacific/Auckland:20260707T134800
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 12:18 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:23bcd285-7f10-48be-8105-0db2fe4f99bc@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260708T113700
+DTEND;TZID=Pacific/Auckland:20260708T143700
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 13:07 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:29597355-7a8a-4bce-8ed1-464d82f6cc70@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260709T123200
+DTEND;TZID=Pacific/Auckland:20260709T153200
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 14:02 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:3e9566dd-5196-457d-a8fc-9054c9217e69@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260710T133400
+DTEND;TZID=Pacific/Auckland:20260710T163400
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:04 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f088ab5b-d85d-4391-9c41-79ad6ed12898@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260711T144000
+DTEND;TZID=Pacific/Auckland:20260711T174000
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 16:10 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:72b3171f-ce28-426e-8f34-14d4aa2c3421@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260712T154400
+DTEND;TZID=Pacific/Auckland:20260712T184400
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 17:14 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5ead1ebf-b8ea-42a1-9d34-4d4128495e8e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260717T075600
+DTEND;TZID=Pacific/Auckland:20260717T105600
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:26 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f085bd95-b726-403a-8439-c4d6854f4b2f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260718T084700
+DTEND;TZID=Pacific/Auckland:20260718T114700
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 10:17 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe8db07-67ba-40d7-b895-9dc4a6ea6797@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260719T093600
+DTEND;TZID=Pacific/Auckland:20260719T123600
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 11:06 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:6474555c-2308-404d-adf1-24b37bd80c69@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260720T102400
+DTEND;TZID=Pacific/Auckland:20260720T132400
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 11:54 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:24d042c5-f500-4fc3-977f-3ac72b8e1ad8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260721T111400
+DTEND;TZID=Pacific/Auckland:20260721T141400
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 12:44 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:4218c67b-36a0-41d8-9b51-145c159f0b89@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260722T120600
+DTEND;TZID=Pacific/Auckland:20260722T150600
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 13:36 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7c416fa8-b6fd-401e-bf9b-05a1d1520b97@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260723T130100
+DTEND;TZID=Pacific/Auckland:20260723T160100
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 14:31 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:9f80266b-e9ae-4c86-9e15-14f38cd42e8e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260724T135800
+DTEND;TZID=Pacific/Auckland:20260724T165800
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 15:28 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:e49c53b3-9872-4667-a44a-650380482e72@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260725T145600
+DTEND;TZID=Pacific/Auckland:20260725T175600
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 16:26 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1f0767c0-a940-4804-a29f-c37acf005408@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260726T155000
+DTEND;TZID=Pacific/Auckland:20260726T185000
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 17:20 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee374d0-603a-4918-93f0-a8633da5a284@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260801T073900
+DTEND;TZID=Pacific/Auckland:20260801T103900
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 09:09 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:384231c9-3c76-4e88-914f-7a5ddd53eb35@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260802T081700
+DTEND;TZID=Pacific/Auckland:20260802T111700
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 09:47 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:97412302-6a6e-46e2-bd65-40599a4a3448@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260803T085700
+DTEND;TZID=Pacific/Auckland:20260803T115700
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 10:27 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:58679f75-a55b-4480-bfb3-1c28ccf3a25c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260804T093800
+DTEND;TZID=Pacific/Auckland:20260804T123800
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 11:08 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a9d5d560-8337-4df0-bfdd-c17e4122e7bc@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260805T102300
+DTEND;TZID=Pacific/Auckland:20260805T132300
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 11:53 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:977cc595-a312-4627-99be-dac9163b5773@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260806T111200
+DTEND;TZID=Pacific/Auckland:20260806T141200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 12:42 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:de2f45d7-5861-4433-b194-9402b0cbd743@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260807T120900
+DTEND;TZID=Pacific/Auckland:20260807T150900
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 13:39 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:69019da5-0397-457f-b243-96eeeac73bed@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260808T131400
+DTEND;TZID=Pacific/Auckland:20260808T161400
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 14:44 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:315a32a8-cb4f-44ac-be11-76beb8d1fbc3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260809T142300
+DTEND;TZID=Pacific/Auckland:20260809T172300
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:53 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:53e51db1-f502-4e99-9736-e77c382030d4@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260810T152900
+DTEND;TZID=Pacific/Auckland:20260810T182900
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 16:59 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8a31bb62-7bed-4eb5-a35e-68fd70ef6403@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260811T162900
+DTEND;TZID=Pacific/Auckland:20260811T192900
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 17:59 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7fc93f-b5a9-4327-b209-e6c0bfa9c3e4@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260815T073600
+DTEND;TZID=Pacific/Auckland:20260815T103600
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:06 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:913d661b-0651-448e-bf2a-f3360feb037a@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260816T082300
+DTEND;TZID=Pacific/Auckland:20260816T112300
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:53 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f2fbf6a9-4f42-4d1c-affb-33d6c1254ce3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260817T090800
+DTEND;TZID=Pacific/Auckland:20260817T120800
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 10:38 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:162b3370-157e-42ee-b1ee-863867648548@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260818T095300
+DTEND;TZID=Pacific/Auckland:20260818T125300
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 11:23 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:3ab21234-597d-4d94-8b3c-ae3c3b06335e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260819T103800
+DTEND;TZID=Pacific/Auckland:20260819T133800
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 12:08 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:eafa1a7e-3b8e-4034-9977-b6ab15495523@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260820T112600
+DTEND;TZID=Pacific/Auckland:20260820T142600
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 12:56 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c9714e-0ceb-4b19-b136-98c55ca229c0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260821T121900
+DTEND;TZID=Pacific/Auckland:20260821T151900
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 13:49 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8c56c385-4c2d-4cf9-bdf4-d8b5a6f82fb8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260822T131800
+DTEND;TZID=Pacific/Auckland:20260822T161800
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 14:48 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:552702f0-36fa-40d5-aa3e-a98830fe6e80@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260823T141900
+DTEND;TZID=Pacific/Auckland:20260823T171900
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 15:49 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:9cbfddb3-e639-40c5-9241-24cdcc9aef11@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260824T151600
+DTEND;TZID=Pacific/Auckland:20260824T181600
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 16:46 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5e687c3b-9f6d-436d-96a2-9c573c6670c5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260825T160700
+DTEND;TZID=Pacific/Auckland:20260825T190700
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 17:37 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5611dac2-6dcb-42b3-bad8-a2211570613a@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260831T075200
+DTEND;TZID=Pacific/Auckland:20260831T105200
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 09:22 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dc794cd9-75fe-42e0-9df0-bceceee2e71e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260901T083200
+DTEND;TZID=Pacific/Auckland:20260901T113200
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 10:02 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:662f47b4-953f-446b-8d93-327f94cbf603@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260902T091500
+DTEND;TZID=Pacific/Auckland:20260902T121500
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 10:45 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8505a092-e9e9-416a-b8b1-7c38d9afc619@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260903T100200
+DTEND;TZID=Pacific/Auckland:20260903T130200
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 11:32 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:721e01bb-ab6c-490b-810e-6d17b5e2148c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260904T105400
+DTEND;TZID=Pacific/Auckland:20260904T135400
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 12:24 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:cf8f98b4-f637-416e-9e6e-5bfa900ac82d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260905T115300
+DTEND;TZID=Pacific/Auckland:20260905T145300
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 13:23 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:ae18d8f3-ef03-42ec-ad7c-66603bb7bbb4@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260906T130000
+DTEND;TZID=Pacific/Auckland:20260906T160000
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 14:30 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8e64e3-f28f-4b4b-869f-04184c7d34af@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260907T140900
+DTEND;TZID=Pacific/Auckland:20260907T170900
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:39 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b3a37baa-d40a-4931-b799-1efbb9cc3eac@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260908T151400
+DTEND;TZID=Pacific/Auckland:20260908T181400
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 16:44 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5b6c1c0c-2e42-4eb6-9a59-27ed62bb67a4@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260909T161300
+DTEND;TZID=Pacific/Auckland:20260909T191300
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 17:43 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2f338da4-9cd0-4906-8a7f-abb3ce9d1886@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260914T075700
+DTEND;TZID=Pacific/Auckland:20260914T105700
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 09:27 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2870760f-e120-43c0-ae3f-df2e9db0de79@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260915T083900
+DTEND;TZID=Pacific/Auckland:20260915T113900
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 10:09 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a6ebc5-587d-4664-b5d1-e7432cb653f8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260916T092000
+DTEND;TZID=Pacific/Auckland:20260916T122000
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 10:50 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:71533c15-4bbf-40c5-b094-4d80f5f624f5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260917T100200
+DTEND;TZID=Pacific/Auckland:20260917T130200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 11:32 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:49fdec9f-ffbb-49ac-a29f-dcbebb5be0b0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260918T104800
+DTEND;TZID=Pacific/Auckland:20260918T134800
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 12:18 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:ce91f0fa-ae7c-473b-a3ba-d20b992bf825@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260919T113800
+DTEND;TZID=Pacific/Auckland:20260919T143800
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 13:08 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:9f86b7d8-9e10-4aef-adbd-4c7d199a705c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260920T123600
+DTEND;TZID=Pacific/Auckland:20260920T153600
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 14:06 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:913d752d-cd4f-4652-9057-d38975aa3ab2@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260921T133700
+DTEND;TZID=Pacific/Auckland:20260921T163700
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 15:07 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:e6546686-354e-4e87-9335-646aba859e8a@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260922T143500
+DTEND;TZID=Pacific/Auckland:20260922T173500
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 16:05 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dd70c343-fc94-4f06-9b5e-f3db0beb7753@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260923T152700
+DTEND;TZID=Pacific/Auckland:20260923T182700
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 16:57 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5a7d97-6ec6-48bf-a88f-3688d5f754b2@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260924T161400
+DTEND;TZID=Pacific/Auckland:20260924T191400
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 17:44 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2417b48f-1480-45fb-9492-04bc67a44dbc@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260928T074400
+DTEND;TZID=Pacific/Auckland:20260928T104400
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 09:14 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7fa016d5-39b6-4bf3-81c6-c592f44f96ea@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260929T082700
+DTEND;TZID=Pacific/Auckland:20260929T112700
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 09:57 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c7dea978-0b69-44d7-ac70-34c182b2ee97@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20260930T091100
+DTEND;TZID=Pacific/Auckland:20260930T121100
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 10:41 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:696e8cf3-5e87-48e4-a753-903bb11b8500@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261001T095700
+DTEND;TZID=Pacific/Auckland:20261001T125700
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 11:27 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:eeccedd6-bfae-4fec-849e-22f4535212a0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261002T104600
+DTEND;TZID=Pacific/Auckland:20261002T134600
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 12:16 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:58563f28-6dc6-4df5-8023-fdcdef265986@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261003T114100
+DTEND;TZID=Pacific/Auckland:20261003T144100
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 13:11 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f578c3a8-c1a3-4d57-9d2c-9d9cc8a9cf41@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261004T124200
+DTEND;TZID=Pacific/Auckland:20261004T154200
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 14:12 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d612997e-7c20-4e70-9062-a170c1afdee0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261005T134800
+DTEND;TZID=Pacific/Auckland:20261005T164800
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 15:18 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:75aeea44-e545-4c0f-8b4e-0e326230621b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261006T145400
+DTEND;TZID=Pacific/Auckland:20261006T175400
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 16:24 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:e7247cbd-a15c-4d8e-a09f-ccc44c43fe9d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261007T155600
+DTEND;TZID=Pacific/Auckland:20261007T185600
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 17:26 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:3cdf59ee-47a6-4352-9bb9-a13a23a30af0@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261012T074900
+DTEND;TZID=Pacific/Auckland:20261012T104900
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 09:19 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:24cca666-dae5-407c-84ac-ea9a6c935c95@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261013T083100
+DTEND;TZID=Pacific/Auckland:20261013T113100
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 10:01 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:e2c19ca5-8da8-4223-8259-52b7f4de5b97@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261014T091100
+DTEND;TZID=Pacific/Auckland:20261014T121100
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 10:41 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:480aa8d2-94a1-4e3f-8b85-3bd29981683c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261015T095000
+DTEND;TZID=Pacific/Auckland:20261015T125000
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 11:20 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ccbb4b-7e00-4b2c-a058-6f1b9b4015a9@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261016T103100
+DTEND;TZID=Pacific/Auckland:20261016T133100
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 12:01 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f1499d17-28f6-4e1c-b1fc-1f79baaeb3af@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261017T111400
+DTEND;TZID=Pacific/Auckland:20261017T141400
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 12:44 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c94ebc07-d14b-461f-a741-f8e74d4aefe7@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261018T120100
+DTEND;TZID=Pacific/Auckland:20261018T150100
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 13:31 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2c1588b1-2d84-40c4-8826-20f03be45cf6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261019T125400
+DTEND;TZID=Pacific/Auckland:20261019T155400
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 14:24 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:091c2766-5d45-4a85-a9d3-d7e4781ab8e2@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261020T135100
+DTEND;TZID=Pacific/Auckland:20261020T165100
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 15:21 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:36a06bff-5ad8-4aff-8d6e-593b1b2e29a8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261021T144800
+DTEND;TZID=Pacific/Auckland:20261021T174800
+SUMMARY:Good swim window - high tide 2.7m
+DESCRIPTION:High tide at 16:18 (2.7m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed25bae-a4da-4f16-87a5-9f04df3cea0e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261022T154000
+DTEND;TZID=Pacific/Auckland:20261022T184000
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 17:10 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d983d0e4-20df-4e5f-ae5d-cf78c5499a2f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261023T162900
+DTEND;TZID=Pacific/Auckland:20261023T192900
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 17:59 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a52df6f3-f596-4df2-bf9f-f1e8c0e60751@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261028T080400
+DTEND;TZID=Pacific/Auckland:20261028T110400
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 09:34 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:bcb65485-5059-4044-9620-d503bc9a1cfa@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261029T085200
+DTEND;TZID=Pacific/Auckland:20261029T115200
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 10:22 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:9479891f-1e61-49ed-92ab-60dfcb6c826d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261030T094100
+DTEND;TZID=Pacific/Auckland:20261030T124100
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 11:11 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:228dd833-f8c0-4dfe-b2a9-b02930134e21@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261031T103400
+DTEND;TZID=Pacific/Auckland:20261031T133400
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 12:04 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:e69c0c95-475f-45c5-ba11-b291be645b94@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261101T113000
+DTEND;TZID=Pacific/Auckland:20261101T143000
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 13:00 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:96f78077-84d0-44c0-aa80-a1a78d75dc3b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261102T122900
+DTEND;TZID=Pacific/Auckland:20261102T152900
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 13:59 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7d749969-5aa1-4eb9-9bd0-ee3149fc6f57@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261103T133100
+DTEND;TZID=Pacific/Auckland:20261103T163100
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 15:01 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:2814dcce-45a4-4c3f-8f2a-16f80a7e91fe@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261104T143300
+DTEND;TZID=Pacific/Auckland:20261104T173300
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 16:03 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc680b-a50a-40d9-823e-4e13f2683e63@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261105T153200
+DTEND;TZID=Pacific/Auckland:20261105T183200
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 17:02 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b347acc6-1b19-405c-9761-83ca646bc0b5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261106T162700
+DTEND;TZID=Pacific/Auckland:20261106T192700
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 17:57 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:03280d82-3917-4f9f-a021-17e05495e7e3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261111T080600
+DTEND;TZID=Pacific/Auckland:20261111T110600
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 09:36 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dd96e318-cb70-47c0-8bd1-a29595e5af99@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261112T084600
+DTEND;TZID=Pacific/Auckland:20261112T114600
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 10:16 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:6f044b0a-3cd9-4028-92aa-2e5cfb49fa26@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261113T092500
+DTEND;TZID=Pacific/Auckland:20261113T122500
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 10:55 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1d7ef02a-b53e-4ee0-b391-f3e322f14bd4@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261114T100400
+DTEND;TZID=Pacific/Auckland:20261114T130400
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 11:34 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b7af4923-6e9e-43d8-ad74-fcc0026a3040@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261115T104500
+DTEND;TZID=Pacific/Auckland:20261115T134500
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 12:15 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c1068ded-6a06-40f6-913b-db8d875e6ba3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261116T112900
+DTEND;TZID=Pacific/Auckland:20261116T142900
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 12:59 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0a6a49-7869-44ad-a39d-ccf6a5448af3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261117T121600
+DTEND;TZID=Pacific/Auckland:20261117T151600
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 13:46 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:8e58b292-5e60-46a7-b24e-56aa06cabe3b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261118T130600
+DTEND;TZID=Pacific/Auckland:20261118T160600
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 14:36 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7ee0a8eb-b59b-4292-b94b-eed2f382f9dd@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261119T135800
+DTEND;TZID=Pacific/Auckland:20261119T165800
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 15:28 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:1b93d526-3469-4714-8be8-70b9b49491e3@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261120T145000
+DTEND;TZID=Pacific/Auckland:20261120T175000
+SUMMARY:Good swim window - high tide 2.8m
+DESCRIPTION:High tide at 16:20 (2.8m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:70b4ee53-1e7c-4ac4-b42d-5764d396f0d6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261121T154200
+DTEND;TZID=Pacific/Auckland:20261121T184200
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 17:12 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a9388567-99c5-4382-bb4a-ffd88f5a048c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261126T074500
+DTEND;TZID=Pacific/Auckland:20261126T104500
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 09:15 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca0b233-120a-419f-bddd-fd5ebb0d04b7@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261127T083600
+DTEND;TZID=Pacific/Auckland:20261127T113600
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 10:06 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:02510634-fca5-48eb-a1ca-b3a7fa107b52@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261128T092800
+DTEND;TZID=Pacific/Auckland:20261128T122800
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 10:58 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b5df6e8a-e65c-41a8-83bd-217ecbcf1f59@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261129T102100
+DTEND;TZID=Pacific/Auckland:20261129T132100
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 11:51 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:427c2e24-8ae0-4acd-876b-f6ad3c462973@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261130T111500
+DTEND;TZID=Pacific/Auckland:20261130T141500
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 12:45 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d81ba0e5-e06a-409e-81b4-91ac6f4f6539@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261201T121100
+DTEND;TZID=Pacific/Auckland:20261201T151100
+SUMMARY:Good swim window - high tide 3.3m
+DESCRIPTION:High tide at 13:41 (3.3m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:328c1d28-f186-4034-b4b2-7893812defe6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261202T130900
+DTEND;TZID=Pacific/Auckland:20261202T160900
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 14:39 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dd430607-7706-4bcd-9fe9-0d1348bf5d37@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261203T140600
+DTEND;TZID=Pacific/Auckland:20261203T170600
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 15:36 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8b7087-d92e-4dfe-84fa-5032508afce1@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261204T150200
+DTEND;TZID=Pacific/Auckland:20261204T180200
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 16:32 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3eaf0c-2ee2-4e75-a985-57cf44de272f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261205T155600
+DTEND;TZID=Pacific/Auckland:20261205T185600
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:26 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a3df29fe-bfe0-4ab5-a161-7f8425a210e5@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261210T074400
+DTEND;TZID=Pacific/Auckland:20261210T104400
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 09:14 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:72bde87f-2776-4e91-9ac5-c53208eb2418@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261211T082300
+DTEND;TZID=Pacific/Auckland:20261211T112300
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 09:53 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6c84f5-05fe-4ddf-a90a-37a794d6b29a@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261212T090200
+DTEND;TZID=Pacific/Auckland:20261212T120200
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 10:32 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:7fdcfa40-6dd7-4f90-92f9-bdfadbcbe1f8@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261213T094100
+DTEND;TZID=Pacific/Auckland:20261213T124100
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 11:11 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:77a319c6-019c-48c2-86c9-2a8d060c9db1@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261214T102000
+DTEND;TZID=Pacific/Auckland:20261214T132000
+SUMMARY:Good swim window - high tide 3.1m
+DESCRIPTION:High tide at 11:50 (3.1m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:a3d75291-6525-4a1d-9b00-b5e53ae67144@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261215T110000
+DTEND;TZID=Pacific/Auckland:20261215T140000
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 12:30 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:39da2fa5-f130-42fe-9d8a-a857f8e1ca1c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261216T114100
+DTEND;TZID=Pacific/Auckland:20261216T144100
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 13:11 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:26c6556f-1cb6-4cd7-b9c9-f8f3ef821c0d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261217T122500
+DTEND;TZID=Pacific/Auckland:20261217T152500
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 13:55 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:bb14ebce-48ca-43c2-96d8-6be80410077b@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261218T131200
+DTEND;TZID=Pacific/Auckland:20261218T161200
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 14:42 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:c34aa727-6bf9-4881-9f1d-3a572f8bca51@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261219T140300
+DTEND;TZID=Pacific/Auckland:20261219T170300
+SUMMARY:Good swim window - high tide 2.9m
+DESCRIPTION:High tide at 15:33 (2.9m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:b1fa0395-7cfb-4680-b807-7caa007fe34e@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261220T145800
+DTEND;TZID=Pacific/Auckland:20261220T175800
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 16:28 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:d947a5db-f59e-49d8-ac4e-dcb4ef836b68@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261221T155600
+DTEND;TZID=Pacific/Auckland:20261221T185600
+SUMMARY:Good swim window - high tide 3.0m
+DESCRIPTION:High tide at 17:26 (3.0m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb03182-3109-4251-a202-2cafdb94507d@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261226T082000
+DTEND;TZID=Pacific/Auckland:20261226T112000
+SUMMARY:Good swim window - high tide 3.6m
+DESCRIPTION:High tide at 09:50 (3.6m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:36825721-c6a4-4fed-a9e4-9a2b5699bd28@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261227T091200
+DTEND;TZID=Pacific/Auckland:20261227T121200
+SUMMARY:Good swim window - high tide 3.6m
+DESCRIPTION:High tide at 10:42 (3.6m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c9db63-5e4a-4e61-8fbc-6a1b2043fe4c@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261228T100400
+DTEND;TZID=Pacific/Auckland:20261228T130400
+SUMMARY:Good swim window - high tide 3.6m
+DESCRIPTION:High tide at 11:34 (3.6m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4a027f-d9e3-4ac1-a497-bef91293891f@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261229T105600
+DTEND;TZID=Pacific/Auckland:20261229T135600
+SUMMARY:Good swim window - high tide 3.5m
+DESCRIPTION:High tide at 12:26 (3.5m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:931c8b07-3c30-4daf-9495-70a29bd476db@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261230T114800
+DTEND;TZID=Pacific/Auckland:20261230T144800
+SUMMARY:Good swim window - high tide 3.4m
+DESCRIPTION:High tide at 13:18 (3.4m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+BEGIN:VEVENT
+UID:9803043e-59bd-4845-b98c-c89d7e9566b6@kohimarama-swim-tides
+DTSTAMP:20260810T195453Z
+DTSTART;TZID=Pacific/Auckland:20261231T124100
+DTEND;TZID=Pacific/Auckland:20261231T154100
+SUMMARY:Good swim window - high tide 3.2m
+DESCRIPTION:High tide at 14:11 (3.2m). Tide is flooding (rising) into the peak, then ebbing (falling) afterwards. Window is 90 min either side of peak high tide at Kohimarama Beach, Auckland. Tide source: LINZ Auckland standard port predictions (not an official tide table).
+LOCATION:Kohimarama Beach, Auckland
+END:VEVENT
+END:VCALENDAR
